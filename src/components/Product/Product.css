@@ -1,0 +1,19 @@
+.product {
+  display: flex;
+  border-bottom: 1px solid gray;
+  margin-bottom: 5px;
+}
+.product img {
+  margin-right: 15px;
+}
+.product-name {
+  color: cornflowerblue;
+  cursor: pointer;
+}
+.main-button {
+  background-color: goldenrod;
+  line-height: 30px;
+  width: 150px;
+  border-radius: 5px;
+  cursor: pointer;
+}
